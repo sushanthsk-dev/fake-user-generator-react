@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/fake-user-generator/static/css/main.07961b31.chunk.css",
-    "main.js": "/fake-user-generator/static/js/main.95a82120.chunk.js",
-    "main.js.map": "/fake-user-generator/static/js/main.95a82120.chunk.js.map",
-    "runtime-main.js": "/fake-user-generator/static/js/runtime-main.1cf49d0e.js",
-    "runtime-main.js.map": "/fake-user-generator/static/js/runtime-main.1cf49d0e.js.map",
-    "static/js/2.e0e2073b.chunk.js": "/fake-user-generator/static/js/2.e0e2073b.chunk.js",
-    "static/js/2.e0e2073b.chunk.js.map": "/fake-user-generator/static/js/2.e0e2073b.chunk.js.map",
-    "static/js/3.45b7bdc9.chunk.js": "/fake-user-generator/static/js/3.45b7bdc9.chunk.js",
-    "static/js/3.45b7bdc9.chunk.js.map": "/fake-user-generator/static/js/3.45b7bdc9.chunk.js.map",
-    "index.html": "/fake-user-generator/index.html",
-    "static/css/main.07961b31.chunk.css.map": "/fake-user-generator/static/css/main.07961b31.chunk.css.map",
-    "static/js/2.e0e2073b.chunk.js.LICENSE.txt": "/fake-user-generator/static/js/2.e0e2073b.chunk.js.LICENSE.txt"
+    "main.css": "/fake-user-generator-react/static/css/main.07961b31.chunk.css",
+    "main.js": "/fake-user-generator-react/static/js/main.95a82120.chunk.js",
+    "main.js.map": "/fake-user-generator-react/static/js/main.95a82120.chunk.js.map",
+    "runtime-main.js": "/fake-user-generator-react/static/js/runtime-main.777e4fb1.js",
+    "runtime-main.js.map": "/fake-user-generator-react/static/js/runtime-main.777e4fb1.js.map",
+    "static/js/2.e0e2073b.chunk.js": "/fake-user-generator-react/static/js/2.e0e2073b.chunk.js",
+    "static/js/2.e0e2073b.chunk.js.map": "/fake-user-generator-react/static/js/2.e0e2073b.chunk.js.map",
+    "static/js/3.45b7bdc9.chunk.js": "/fake-user-generator-react/static/js/3.45b7bdc9.chunk.js",
+    "static/js/3.45b7bdc9.chunk.js.map": "/fake-user-generator-react/static/js/3.45b7bdc9.chunk.js.map",
+    "index.html": "/fake-user-generator-react/index.html",
+    "static/css/main.07961b31.chunk.css.map": "/fake-user-generator-react/static/css/main.07961b31.chunk.css.map",
+    "static/js/2.e0e2073b.chunk.js.LICENSE.txt": "/fake-user-generator-react/static/js/2.e0e2073b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1cf49d0e.js",
+    "static/js/runtime-main.777e4fb1.js",
     "static/js/2.e0e2073b.chunk.js",
     "static/css/main.07961b31.chunk.css",
     "static/js/main.95a82120.chunk.js"
